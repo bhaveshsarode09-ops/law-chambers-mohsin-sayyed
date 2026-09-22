@@ -1,0 +1,24 @@
+{
+  "name": "law-chambers-adv-mohsin-sayyed",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Premier single-page animated website for Law Chambers of Adv. Mohsin Mohammadali Sayyed, Bombay High Court Advocate in Nashik.",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": [
+    "law-chambers",
+    "advocate",
+    "bombay-high-court",
+    "nashik",
+    "sarfaesi",
+    "banking-law",
+    "title-vetting",
+    "react",
+    "tailwind"
+  ],
+  "author": "Adv. Mohsin Mohammadali Sayyed Chambers",
+  "license": "Proprietary"
+}
